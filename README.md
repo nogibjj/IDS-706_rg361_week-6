@@ -6,7 +6,7 @@ This repositroy contains files to perform CRUD (Create-Write-Update-Delete) oper
 
 All the CRUD operations are automatically ``logged`` in the ``query_logs`` file.
 
-The base repo has been forked from [IDS0706_rg361_week-5](https://github.com/nogibjj/IDS-706_rg361_week-5) and modified as per requirements.
+The base repo has been forked from [IDS-706_rg361_week-5](https://github.com/nogibjj/IDS-706_rg361_week-5) and modified as per requirements.
 
 Created on on 08-Oct-2023
 
